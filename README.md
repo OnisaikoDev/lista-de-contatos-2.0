@@ -16,7 +16,6 @@ A aplicação permite gerenciar contatos de forma simples, oferecendo uma experi
 
 - HTML5  
 - CSS3  
-- JavaScript  
 
 ---
 
