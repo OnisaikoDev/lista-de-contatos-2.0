@@ -6,9 +6,9 @@
 
 ## 💻 Sobre o Projeto
 
-Este projeto é uma aplicação de lista de contatos desenvolvida com foco em praticar conceitos de front-end e manipulação de dados no navegador.
+Este projeto é uma interface de lista de contatos desenvolvida com foco em estruturação e estilização de páginas web utilizando apenas HTML e CSS.
 
-A aplicação permite gerenciar contatos de forma simples, oferecendo uma experiência rápida e intuitiva para o usuário.
+A aplicação simula visualmente um sistema de gerenciamento de contatos, com foco na organização dos elementos e na experiência do usuário.
 
 ---
 
@@ -21,11 +21,9 @@ A aplicação permite gerenciar contatos de forma simples, oferecendo uma experi
 
 ## ✨ Funcionalidades
 
-- ➕ Adição de novos contatos  
-- 📋 Listagem de contatos  
-- 🗑️ Remoção de contatos  
-- 📱 Interface responsiva  
-- ⚡ Interação dinâmica com JavaScript  
+- 📋 Exibição de contatos em layout organizado  
+- 🎨 Estilização moderna com CSS  
+- 📱 Layout responsivo  
 
 ---
 
@@ -33,18 +31,9 @@ A aplicação permite gerenciar contatos de forma simples, oferecendo uma experi
 
 Este projeto foi desenvolvido com o objetivo de:
 
-- Praticar manipulação do DOM  
-- Trabalhar com lógica em JavaScript  
-- Simular uma aplicação real de gerenciamento de dados  
-
----
-
-## 🔮 Melhorias Futuras
-
-- ✏️ Edição de contatos  
-- 💾 Persistência de dados (LocalStorage ou backend)  
-- 🔍 Busca e filtros  
-- 📲 Melhorias na interface  
+- Praticar estruturação com HTML  
+- Aprimorar habilidades em CSS  
+- Criar interfaces organizadas e visualmente agradáveis  
 
 ---
 
